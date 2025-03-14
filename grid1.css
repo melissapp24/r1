@@ -1,0 +1,14 @@
+.container {
+    display: grid;
+    grid-template-columns: 100px 200px 100px; /* Tres columnas de diferentes anchos */
+    grid-template-rows: 100px 100px; /* Dos filas de igual altura */
+    gap: 10px; /* Espacio entre filas y columnas */
+  }
+  
+  .item {
+    background-color: lightblue;
+    border: 1px solid blue;
+    text-align: center;
+    padding: 10px;
+  }
+  

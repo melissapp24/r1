@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: space-between; /* Distribuye los elementos horizontalmente */
+  }
+  
+  .item {
+    background-color: lightblue;
+    border: 1px solid blue;
+    text-align: center;
+    padding: 10px;
+  }
+
+  
